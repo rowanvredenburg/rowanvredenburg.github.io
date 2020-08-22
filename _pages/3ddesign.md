@@ -2,7 +2,7 @@
 title: "3D Designs"
 layout: single
 permalink: /3ddesign/
-author_profile: false
+author_profile: true
 entries_layout: grid
 
 gallery:
