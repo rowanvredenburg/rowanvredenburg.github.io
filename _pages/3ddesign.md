@@ -16,8 +16,8 @@ entries_layout: grid
 </figure>
 
 <figure>
-   <a href="https://github.com/rowanvredenburg/rowanvredenburg.github.io/tree/master/images/Final+Orange+Key.png">
-   <img src="/images/Final+Orange+Key.png"
-      alt="Final Orange Key Render" />
+   <a href="https://github.com/rowanvredenburg/rowanvredenburg.github.io/tree/master/images/Final+Yellow+Key.png">
+   <img src="/images/Final+Yellow+Key.png"
+      alt="Final Yellow Key Render" />
    </a>
 </figure>
