@@ -1,8 +1,8 @@
 ---
 title: "About"
-layout: default
+layout: single
 permalink: /about/
-authorprofile: true
+author_profile: true
 ---
 
 This section is about me.
