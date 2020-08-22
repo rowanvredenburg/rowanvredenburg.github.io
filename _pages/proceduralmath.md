@@ -14,7 +14,7 @@ gallery:
         alt: "Recaman's sequence"
 ---
 
-###### Most of this work was done on [Processing](processing.org)
+Most of this work was done on [Processing](processing.org)
 
 
 {% include gallery layout="" %}
