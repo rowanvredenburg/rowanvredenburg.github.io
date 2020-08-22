@@ -1,7 +1,7 @@
 ---
+title: "3D Designs"
 layout: single
 permalink: /3ddesign/
-title: "3D Designs"
 author_profile: false
 entries_layout: grid
 
