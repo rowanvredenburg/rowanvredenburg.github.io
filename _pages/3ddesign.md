@@ -4,9 +4,12 @@ permalink: /3ddesign/
 title: "3D Designs"
 author_profile: false
 entries_layout: grid
+
+gallery:
+    gallery_layout: half
 ---
 
-### Learning Blender since May 2020. All work was rendered in the Cycles render engine.
+##### Learning Blender since May 2020. All work was rendered in the Cycles render engine.
 
 <figure>
    <a href="/images/timestides.png">
@@ -16,7 +19,7 @@ entries_layout: grid
 </figure>
 
 <figure>
-   <a href="https://github.com/rowanvredenburg/rowanvredenburg.github.io/tree/master/images/Final+Yellow+Key.png">
+   <a href="/images/Final+Yellow+Key.png">
    <img src="/images/Final+Yellow+Key.png"
       alt="Final Yellow Key Render" />
    </a>
