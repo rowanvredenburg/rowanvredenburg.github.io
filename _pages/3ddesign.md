@@ -15,7 +15,7 @@ gallery:
     -   url: /images/
 ---
 
-##### Learning Blender since May 2020. All work was rendered in the Cycles render engine.
+Learning Blender since May 2020. All work was rendered in the Cycles render engine.
 
 {% include gallery layout=""%}
 
