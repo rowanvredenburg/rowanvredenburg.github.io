@@ -1,9 +1,9 @@
 ---
 ---
 
-$muted-text-color: black;
+@charset "utf-8";
 
-$text-color: black;
+
 
 $sans-serif-narrow: "Roboto Condensed", sans-serif, 400;
 $sans-serif: "Roboto Condensed", sans-serif, 700;
@@ -12,7 +12,10 @@ $monospace: "Roboto Condensed", sans-serif;
 $global-font-family: $sans-serif-narrow;
 $header-font-family: $sans-serif;
 
-@charset "utf-8";
+$muted-text-color: black;
+
+$text-color: black;
+
 
 
 
