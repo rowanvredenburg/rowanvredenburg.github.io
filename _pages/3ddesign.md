@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: collection
 permalink: /3ddesign/
 title: "3D Designs"
 author_profile: false
