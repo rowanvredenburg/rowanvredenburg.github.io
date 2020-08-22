@@ -7,7 +7,7 @@ header:
 excerpt: >
     3D Design Freelancer
 feature_row:
-    -   image_path: /images/Timestides.png
+    -   image_path: /images/timestides.png
         alt: "Times tide will smother you"
         title: 3D Design Portfolio
         url: "/3ddesign/"
