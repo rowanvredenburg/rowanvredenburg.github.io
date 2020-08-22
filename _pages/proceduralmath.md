@@ -1,6 +1,7 @@
 ---
-permalink: /proceduralmath/
 title: "Procedural Math"
+layout: default
+permalink: /proceduralmath/
 author_profile: false
 entries_layout: grid
 
@@ -13,7 +14,7 @@ gallery:
         alt: "Recaman's sequence"
 ---
 
-##### PROCEDURAL MATH PROGRAMMING
+### PROCEDURAL MATH PROGRAMMING
 ###### Most of this work was done on [Processing](processing.org)
 
 
