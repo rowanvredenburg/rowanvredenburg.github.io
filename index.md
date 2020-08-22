@@ -5,7 +5,7 @@ permalink: /
 header:
     overlay_image: /images/Spacescenestill.png
 excerpt: >
-    Rowan Vredenburg
+    3D Design Freelancer
 feature_row:
     -   image_path: /images/Timestides.png
         alt: "Times tide will smother you"
@@ -20,3 +20,5 @@ feature_row:
         btn_class: "btn--primary"
         btn_label: "Click Here"
 ---
+
+{% include feature_row %}
