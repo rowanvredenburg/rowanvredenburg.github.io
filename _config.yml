@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Rowan Vredenburg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio_photo.jpg"
   bio              : "3D Design Freelancer"
   location         : "Toronto"
   email            :
