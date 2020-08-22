@@ -16,7 +16,7 @@ gallery:
 
 ##### Learning Blender since May 2020. All work was rendered in the Cycles render engine.
 
-{% include gallery %}
+{% include gallery layout=half%}
 
 <!-- <figure>
    <a href="/images/timestides.png">
