@@ -6,3 +6,14 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+$sans-serif: "Roboto Condensed", sans-serif;
+
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+$link-color: grey;
+$masthead-link-color: grey;
+
+$text-color: black;
+
