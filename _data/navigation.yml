@@ -2,6 +2,8 @@
 main:
   - title: "3D Design"
     url: /3ddesign/
+  - title: "About"
+    url: /about/
   - title: "Contact"
     url: /contact/
   # - title: "About"
