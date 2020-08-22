@@ -15,10 +15,6 @@ entries_layout: grid
    </a>
 </figure>
 
-<div class="responsive-video-container">
-    <iframe src="images/Space_Scene.mp4" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-
 <figure>
    <a href="https://github.com/rowanvredenburg/rowanvredenburg.github.io/tree/master/images/Final+Orange+Key.png">
    <img src="/images/Final+Orange+Key.png"
