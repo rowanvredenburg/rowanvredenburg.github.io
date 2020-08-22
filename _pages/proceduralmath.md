@@ -1,6 +1,6 @@
 ---
 title: "Procedural Math"
-layout: default
+layout: single
 permalink: /proceduralmath/
 author_profile: false
 entries_layout: grid
