@@ -13,6 +13,7 @@ feature_row:
         url: "/3ddesign/"
         btn_class: "btn--primary btn--large btn--block"
         btn_label: "3D Design Portfolio"
+    -   url: #idk what to do with this
     -   image_path: /images/950x950.jpg
         alt: "Ulam's spiral"
         #title: Procedural Math Programming
