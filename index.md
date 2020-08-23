@@ -18,7 +18,7 @@ feature_row:
         #title: Procedural Math Programming
         url: "/proceduralmath/"
         btn_class: "btn--primary btn--large btn--block"
-        btn_label: "Click Here"
+        btn_label: "Procedural Math Programming"
 
 # gallery:
 #     -   url: /3ddesign/
