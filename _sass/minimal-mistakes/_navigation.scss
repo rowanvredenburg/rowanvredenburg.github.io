@@ -94,7 +94,7 @@
       }
 
       &.disabled {
-        color: rgba($muted-text-color, 0.5);
+        color: rgba($muted-text-color, 1);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -148,7 +148,7 @@
     }
 
     &.disabled {
-      color: rgba($muted-text-color, 0.5);
+      color: rgba($muted-text-color, 1);
       pointer-events: none;
       cursor: not-allowed;
     }
