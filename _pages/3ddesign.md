@@ -5,28 +5,45 @@ permalink: /3ddesign/
 author_profile: true
 entries_layout: grid
 
-gallery:
-    -   url: /images/timestides.png
-        image_path: /images/timestides-large.png
-        alt: "Times Tides will Smother You"
-    -   url: /images/Final+Yellow+Key.png
-        image_path: /images/Final+Yellow+Key.png
-        alt: "Final yellow key render"
-    -   url: /images/
+gallery1:
+   -  url: /images/Final+Black+Key.png
+      image_path: /images/Final+Black+Key.png
+      alt: "PlayVS Black Key"
+   -  url: /images/Final+Yellow+Key.png
+      image_path: /images/Final+Yellow+Key.png
+      alt: "PlayVS Yellow Key"
+   -  url: /images/playvs_medal.png
+      image_path: /images/playvs_medal.png
+      alt: "PlayVS Medal"
+   -  url: /images/playvs_sign.png
+      image_path: /images/playvs_sign.png
+      alt: "PlayVS Neon Sign"
+
+gallery2:
+   -  url: /images/Livingroom.png
+      image_path: /images/Livingroom.png
+      alt: "Living room"
+   -  url: /images/bong_hd.png
+      image_path: /images/bong_hd.png
+      alt: "Bong and grinder"
 ---
 
 Learning Blender since May 2020. All work was rendered in the Cycles render engine.
 
-{% include gallery layout=""%}
-
-<!-- <figure>
-   <a href="/images/timestides.png">
-   <img src="/images/timestides.png"
+<figure>
+   <a href="/images/timestides-large.png">
+   <img src="/images/timestides-large.png"
       alt="Times Tide will Smother You" />
    </a>
 </figure>
 
-<figure>
+## Work for [PlayVS](playvs.com)
+##### Under [Public Address](publicaddress.studio)
+
+{% include gallery id="gallery1" layout="" %}
+
+{% incldue gallery id="gallery2" layout="" %}
+<!--<figure>
    <a href="/images/Final+Yellow+Key.png">
    <img src="/images/Final+Yellow+Key.png"
       alt="Final Yellow Key Render" />
