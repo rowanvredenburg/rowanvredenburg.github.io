@@ -33,6 +33,4 @@ gallery:
         btn_label: "Procedural Math Programming"
 ---
 
-{% include feature_row %}
-
 {% include gallery layout="half" %}
