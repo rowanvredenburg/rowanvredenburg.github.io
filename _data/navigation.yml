@@ -1,13 +1,13 @@
 # main links
 main:
-  # - title: "About"
-  #   url: /about/
+  - title: "About"
+    url: /about/
   - title: "3D Design"
     url: /3ddesign/
   - title: "Procedural Math"
     url: /proceduralmath/
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
