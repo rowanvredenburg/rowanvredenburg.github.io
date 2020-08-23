@@ -208,7 +208,8 @@
     background-color: transparent;
     cursor: pointer;
   }
-
+  // I think these visible/hidden links may be the hamgurger menu options im looking for
+  
   .visible-links {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -430,6 +431,8 @@
   }
 }
 
+//possible hamgurger menu code
+
 .nav__list .nav__items {
   margin: 0;
   font-size: 1.25rem;
@@ -458,6 +461,8 @@
     transform: translate(0, 10%);
   }
 }
+
+//possible hamburger drop down code
 
 @include breakpoint(max-width $large - 1px) {
   .nav__list input:checked ~ .nav__items {
