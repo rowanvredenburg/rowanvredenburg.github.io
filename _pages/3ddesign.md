@@ -42,7 +42,7 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
 
 {% include gallery id="gallery1" layout="" %}
 
-{% incldue gallery id="gallery2" layout="" %}
+{% include gallery id="gallery2" layout="" %}
 <!--<figure>
    <a href="/images/Final+Yellow+Key.png">
    <img src="/images/Final+Yellow+Key.png"
