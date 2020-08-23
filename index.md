@@ -21,4 +21,4 @@ feature_row:
         btn_label: "Click Here"
 ---
 
-{% include feature_row type="center" %}
+{% include feature_row type="left" %}
