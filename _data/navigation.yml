@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "3D Design"
     url: /3ddesign/
   - title: "Procedural Math"
