@@ -9,10 +9,10 @@ excerpt: >
 feature_row:
     -   image_path: /images/timestides-square.png
         alt: "Times tide will smother you"
-        title: 3D Design Portfolio
+        #title: 3D Design Portfolio
         url: "/3ddesign/"
-        btn_class: "btn--primary"
-        btn_label: "Click Here"
+        btn_class: "btn--primary btn--large"
+        btn_label: "3D Design Portfolio"
     -   image_path: /images/950x950.jpg
         alt: "Ulam's spiral"
         title: Procedural Math Programming
