@@ -5,7 +5,7 @@ permalink: /
 header:
     overlay_image: /images/Spacescenestill.png
 excerpt: >
-    3D Design Freelancer
+    3D Designer
 feature_row:
     -   image_path: /images/timestides-square.png
         alt: "Times tide will smother you"
