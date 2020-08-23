@@ -20,8 +20,8 @@ gallery1:
       alt: "PlayVS Neon Sign"
 
 gallery2:
-   -  url: /images/Livingroom.png
-      image_path: /images/Livingroom.png
+   -  url: /images/4Fourth+Render.png
+      image_path: /images/4Fourth+Render.png
       alt: "Living room"
    -  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
