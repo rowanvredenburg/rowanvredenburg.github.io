@@ -7,7 +7,7 @@ entries_layout: grid
 
 gallery:
     -   url: /images/timestides.png
-        image_path: /images/timestides.png
+        image_path: /images/timestides-large.png
         alt: "Times Tides will Smother You"
     -   url: /images/Final+Yellow+Key.png
         image_path: /images/Final+Yellow+Key.png
