@@ -13,7 +13,7 @@ $masthead-link-color: black;
 $masthead-link-color-hover: rgb(73, 73, 73);
 $text-color: black;
 
-
+$primary-color: black;
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

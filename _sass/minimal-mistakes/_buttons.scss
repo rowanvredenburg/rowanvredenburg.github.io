@@ -22,11 +22,11 @@
   cursor: pointer;
 
   .icon {
-    margin-right: 0.5em;
+    margin-right: 0em;
   }
 
   .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+    margin-left: 0em; /* override for hidden text*/
   }
 
   /* button colors */
