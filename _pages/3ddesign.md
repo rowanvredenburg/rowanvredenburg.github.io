@@ -38,7 +38,7 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
    </a>
 </figure>
 
-## Work for <span style="color:rgb(255,129,0)">[PlayVS](playvs.com)</span>
+## Work for [PlayVS](playvs.com)
 
 Under [Public Address](publicaddress.studio)
 
