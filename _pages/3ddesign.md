@@ -38,7 +38,10 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
 </figure>
 
 ## Work for [PlayVS](playvs.com)
-##### Under [Public Address](publicaddress.studio)
+{: .text-center}
+
+Under [Public Address](publicaddress.studio)
+{: .text-center}
 
 {% include gallery id="gallery1" layout="half" %}
 
