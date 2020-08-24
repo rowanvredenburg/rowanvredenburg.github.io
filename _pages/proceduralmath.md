@@ -18,7 +18,7 @@ Most of this work was done on [Processing](processing.org)
 
 <figure>
    <a href="/images/950x950.jpg">
-   <img src="images/950x950.jpg"
+   <img src="/images/950x950.jpg"
       alt="Ulam's Spiral" />
    </a>
 </figure>
@@ -41,7 +41,7 @@ Most of this work was done on [Processing](processing.org)
    </a>
 </figure>
 
-#### This is the beginning of the ever expanding Recamán's sequence. The sequence is somewhat difficult to explain shortly but basically involves jumping back and forth on a number line; these jumps are visualized as the “arcs” in the image.
+#### This is the beginning of the ever expanding [Recamán's sequence](https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence). The sequence is somewhat difficult to explain shortly but basically involves jumping back and forth on a number line; these jumps are visualized as the “arcs” in the image.
 
 ## [< 3D Design Portfolio](/3ddesign/)
 
