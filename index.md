@@ -23,4 +23,4 @@ feature_row:
 ---
 
 {% include feature_row %}
-{: .align-center}
+{: .full}
