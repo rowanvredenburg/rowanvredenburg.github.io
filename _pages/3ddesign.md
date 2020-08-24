@@ -16,8 +16,8 @@ gallery1:
    -  url: /images/playvs_medal.png
       image_path: /images/playvs_medal.png
       alt: "PlayVS Medal"
-   -  url: /images/playvs_sign.png
-      image_path: /images/playvs_sign.png
+   -  url: /images/playvs-sig-square.png
+      image_path: /images/playvs-sign-square.png
       alt: "PlayVS Neon Sign"
 
 gallery2:
@@ -38,7 +38,7 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
    </a>
 </figure>
 
-## Work for [PlayVS](playvs.com)
+## Work for <span style="color:rgb(255,129,0)">[PlayVS](playvs.com)</span>
 
 Under [Public Address](publicaddress.studio)
 
