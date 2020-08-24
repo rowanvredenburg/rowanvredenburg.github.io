@@ -6,7 +6,7 @@ author_profile: false
 entries_layout: grid
 ---
 
-##### Most of this work was done on [Processing](processing.org)
+Most of this work was done on [Processing](processing.org).
 
 <figure>
    <a href="/images/950x950.jpg">
