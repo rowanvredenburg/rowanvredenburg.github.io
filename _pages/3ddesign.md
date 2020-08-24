@@ -4,6 +4,7 @@ layout: single
 permalink: /3ddesign/
 author_profile: true
 entries_layout: grid
+class: wide
 
 gallery1:
    -  url: /images/Final+Black+Key.png
@@ -43,7 +44,7 @@ Under [Public Address](publicaddress.studio)
 
 {% include gallery id="gallery1" layout="half" %}
 
-{% include gallery id="gallery2" layout="" %}
+{% include gallery id="gallery2" layout="half" %}
 
 <figure>
    <a href="/images/scale.png">
@@ -53,3 +54,4 @@ Under [Public Address](publicaddress.studio)
 </figure>
 
 ## [Procedural Math Programming >](/proceduralmath/)
+{: .text-right}

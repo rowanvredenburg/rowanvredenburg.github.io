@@ -1,4 +1,4 @@
-I"Ý<p>Learning Blender since May 2020. All work was rendered in the Cycles render engine.</p>
+I"þ<p>Learning Blender since May 2020. All work was rendered in the Cycles render engine.</p>
 
 <figure>
    <a href="/images/timestides-large.png">
@@ -39,11 +39,11 @@
   
 </figure>
 
-<figure class=" ">
+<figure class="half ">
   
     
-      <a href="/images/Living-room-final.png">
-          <img src="/images/Living-room-final.png" alt="Living room" />
+      <a href="/images/Living-room-final-dark.png">
+          <img src="/images/Living-room-final-dark.png" alt="Living room" />
       </a>
     
   
@@ -62,5 +62,5 @@
    </a>
 </figure>
 
-<h2 id="procedural-math-programming-"><a href="/proceduralmath/">Procedural Math Programming &gt;</a></h2>
+<h2 class="text-right" id="procedural-math-programming-"><a href="/proceduralmath/">Procedural Math Programming &gt;</a></h2>
 :ET
