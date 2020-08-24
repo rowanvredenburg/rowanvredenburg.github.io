@@ -20,8 +20,8 @@ gallery1:
       alt: "PlayVS Neon Sign"
 
 gallery2:
-   -  url: /images/4Fourth+Render.png
-      image_path: /images/4Fourth+Render.png
+   -  url: /images/Living-room-final.png
+      image_path: /images/Living-room-final.png
       alt: "Living room"
    -  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
@@ -43,9 +43,12 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
 {% include gallery id="gallery1" layout="half" %}
 
 {% include gallery id="gallery2" layout="" %}
-<!--<figure>
-   <a href="/images/Final+Yellow+Key.png">
-   <img src="/images/Final+Yellow+Key.png"
-      alt="Final Yellow Key Render" />
+
+<figure>
+   <a href="/images/scale.png">
+   <img src="/images/scale.png"
+      alt="Scale" />
    </a>
-</figure> -->
+</figure>
+
+## [Procedural Math Programming >](/proceduralmath/)

@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rowan.o.vredenburg@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/rowan-vredenburg-4ab372100/"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
