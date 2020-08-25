@@ -27,14 +27,18 @@ gallery2:
    -  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
       alt: "Bong and grinder"
+
+gallery3:
+   -  url: /images/fillstation.png
+      image_path: /images/fillstation.png
+      alt: "Fill Station"
+   -  url: /images/donut-coffee.png
+      image_path: /images/donut-coffee.png
+      alt: "Donut and Coffee"
+      figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
 ---
 
 Learning Blender since May 2020. All work was rendered in the Cycles render engine.
-
-<!-- <video width="" height="540" poster="/images/Spacescenestill.png" controls>
-   <source src="/images/Space_Scene.mp4" type="video/mp4">
-</video> -->
-
 
 <figure>
    <a href="/images/timestides-large.png">
@@ -43,20 +47,30 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
    </a>
 </figure>
 
+{% include video id="1syIeTr5kfk-ET4zyZ-fKl-1EzhG2S5IE" provider="google-drive" %}
+<!-- https://drive.google.com/file/d/1syIeTr5kfk-ET4zyZ-fKl-1EzhG2S5IE/view?usp=sharing -->
+
 ## Work for [PlayVS](playvs.com)
+{: .text-center}
 
 Under [Public Address](publicaddress.studio)
+{: .text-center}
 
 {% include gallery id="gallery1" layout="half" %}
 
 {% include gallery id="gallery2" layout="half" %}
 
-<figure>
+{% include video id="1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN" provider="google-drive" %}
+<!-- https://drive.google.com/file/d/1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN/view?usp=sharing -->
+
+{% include gallery id="gallery3" layout="half" %}
+
+<!-- <figure>
    <a href="/images/scale.png">
    <img src="/images/scale.png"
       alt="Scale" />
    </a>
-</figure>
+</figure> -->
 
 ## [Procedural Math Programming >](/proceduralmath/)
 {: .text-right}

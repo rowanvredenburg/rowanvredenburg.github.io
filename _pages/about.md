@@ -2,6 +2,8 @@
 title: "About"
 layout: single
 permalink: /about/
+header:
+    overlay_image: /images/scale.png
 author_profile: true
 ---
 
