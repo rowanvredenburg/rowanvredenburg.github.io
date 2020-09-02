@@ -30,3 +30,16 @@ feature_row1:
 ---
 
 {% include feature_row id="feature_row1" %}
+
+<!-- <div class="archive">
+    <div class="archive__item">
+        <a href="/3ddesign/">
+            <img src="/images/timestides-square.png" alt="Times tide will smother you"/>
+        </a>
+    </div>
+    <div class="archive__item">
+        <a href="/proceduralmath/">
+            <img src="/images/950x950.jpg" alt="Ulam spiral"/>
+        </a>
+    </div>
+</div> -->
