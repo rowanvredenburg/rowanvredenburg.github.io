@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "3D Design"
-    url: /3ddesign/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Procedural Math"
     url: /proceduralmath/
   # - title: "Contact"

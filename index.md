@@ -2,13 +2,15 @@
 layout: splash
 author_profile: false
 permalink: /
+entries_layout: grid
 header:
     overlay_image: /images/Spacescenestill.png
     actions:
     - label: "Portfolio"
-      url: "/3ddesign/"
+      url: "/portfolio/"
 excerpt: >
     3D Designer
+
 feature_row1:
     # -   image_path: /images/bio_photo.jpg
     #     alt: "Bio Photo - Rowan Vredeburg"
@@ -29,7 +31,7 @@ feature_row1:
         btn_label: "Procedural Math Programming"
 ---
 
-{% include feature_row id="feature_row1" %}
+<!-- {% include feature_row id="feature_row1" %} -->
 
 <!-- <div class="archive">
     <div class="archive__item">

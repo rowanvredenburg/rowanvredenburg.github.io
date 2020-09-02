@@ -1,7 +1,7 @@
 ---
-title: "3D Designs"
+title: "3D Design Portfolio"
 layout: single
-permalink: /3ddesign/
+permalink: /portfolio/
 author_profile: true
 entries_layout: grid
 class: wide
