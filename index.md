@@ -30,7 +30,7 @@ feature_row1:
         btn_class: "btn--primary btn--block"
         btn_label: "Procedural Math Programming"
 ---
-
+<html translate="no">
 <!-- {% include feature_row id="feature_row1" %} -->
 
 <!-- <div class="archive">
