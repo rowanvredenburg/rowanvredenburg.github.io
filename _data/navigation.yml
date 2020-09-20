@@ -6,6 +6,8 @@ main:
     url: /portfolio/
   - title: "Procedural Math"
     url: /proceduralmath/
+  - title: "Contact"
+    url: /contact/
   # - title: "Contact"
   #   url: /contact/
   # - title: "About"

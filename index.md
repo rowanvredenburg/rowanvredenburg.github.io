@@ -1,47 +1,76 @@
 ---
-layout: splash
+title: "3D Design Portfolio"
+layout: single
+permalink: /portfolio/
 author_profile: false
-permalink: /
 entries_layout: grid
-header:
-    overlay_image: /images/Spacescenestill.png
-    actions:
-    - label: "Portfolio"
-      url: "/portfolio/"
-excerpt: >
-    3D Designer
+class: wide
 
-feature_row1:
-    # -   image_path: /images/bio_photo.jpg
-    #     alt: "Bio Photo - Rowan Vredeburg"
-    #     url: "/about/"
-    #     btn_class: "btn--primary btn--block"
-    #     btn_label: "About me"
-    -   image_path: /images/timestides-square.png
-        alt: "Times tide will smother you"
-        #title: 3D Design Portfolio
-        url: "/3ddesign/"
-        btn_class: "btn--primary btn--block"
-        btn_label: "3D Design Portfolio"
-    -   image_path: /images/950x950.jpg
-        alt: "Ulam's spiral"
-        #title: Procedural Math Programming
-        url: "/proceduralmath/"
-        btn_class: "btn--primary btn--block"
-        btn_label: "Procedural Math Programming"
+gallery1:
+   -  url: /images/Final+Black+Key.png
+      image_path: /images/Final+Black+Key.png
+      alt: "PlayVS Black Key"
+   -  url: /images/Final+Yellow+Key.png
+      image_path: /images/Final+Yellow+Key.png
+      alt: "PlayVS Yellow Key"
+   -  url: /images/playvs_medal.png
+      image_path: /images/playvs_medal.png
+      alt: "PlayVS Medal"
+   -  url: /images/playvs-sig-square.png
+      image_path: /images/playvs-sign-square.png
+      alt: "PlayVS Neon Sign"
+
+gallery2:
+   -  url: /images/Living-room-final-dark.png
+      image_path: /images/Living-room-final-dark.png
+      alt: "Living room"
+   -  url: /images/bong_hd.png
+      image_path: /images/bong_hd.png
+      alt: "Bong and grinder"
+
+gallery3:
+   -  url: /images/fillstation.png
+      image_path: /images/fillstation.png
+      alt: "Fill Station"
+   -  url: /images/donut-coffee.png
+      image_path: /images/donut-coffee.png
+      alt: "Donut and Coffee"
+      figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
 ---
-<html translate="no">
-<!-- {% include feature_row id="feature_row1" %} -->
 
-<!-- <div class="archive">
-    <div class="archive__item">
-        <a href="/3ddesign/">
-            <img src="/images/timestides-square.png" alt="Times tide will smother you"/>
-        </a>
-    </div>
-    <div class="archive__item">
-        <a href="/proceduralmath/">
-            <img src="/images/950x950.jpg" alt="Ulam spiral"/>
-        </a>
-    </div>
-</div> -->
+Learning Blender since May 2020. All work was rendered in the Cycles render engine.
+
+<figure>
+   <a href="/images/timestides-large.png">
+   <img src="/images/timestides-large.png"
+      alt="Times Tide will Smother You" />
+   </a>
+</figure>
+
+{% include video id="1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5" provider="google-drive" %}
+https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing
+
+## Work for [PlayVS](playvs.com)
+{: .text-center}
+
+Under [Public Address](publicaddress.studio)
+{: .text-center}
+
+{% include gallery id="gallery1" layout="half" %}
+
+{% include gallery id="gallery2" layout="half" %}
+
+{% include video id="1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN" provider="google-drive" %}
+<!-- https://drive.google.com/file/d/1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN/view?usp=sharing -->
+
+{% include gallery id="gallery3" layout="half" %}
+
+<!-- <figure>
+   <a href="/images/scale.png">
+   <img src="/images/scale.png"
+      alt="Scale" />
+   </a>
+</figure> -->
+
+## [Procedural Math Programming >](/proceduralmath/)
+{: .text-right}

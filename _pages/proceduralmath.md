@@ -2,7 +2,7 @@
 title: "Procedural Math Programming"
 layout: single
 permalink: /proceduralmath/
-author_profile: true
+author_profile: false
 entries_layout: grid
 ---
 

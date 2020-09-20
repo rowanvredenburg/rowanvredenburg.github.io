@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 header:
     overlay_image: /images/scale.png
-author_profile: true
+author_profile: false
 ---
 
 I am a fourth-year Materials Science and Engineering student at the University of Toronto. I have always had an interest for coding and recently became interested in 3D design.
