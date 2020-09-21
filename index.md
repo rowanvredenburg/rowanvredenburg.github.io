@@ -1,7 +1,7 @@
 ---
 title: "3D Design Portfolio"
 layout: single
-permalink: /portfolio/
+permalink: /
 author_profile: false
 entries_layout: grid
 class: wide
@@ -48,7 +48,7 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
 </figure>
 
 {% include video id="1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5" provider="google-drive" %}
-https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing
+<!-- https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing -->
 
 ## Work for [PlayVS](playvs.com)
 {: .text-center}

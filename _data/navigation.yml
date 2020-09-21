@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Portfolio"
-    url: /portfolio/
+    url: /
   - title: "Procedural Math"
     url: /proceduralmath/
   - title: "Contact"
