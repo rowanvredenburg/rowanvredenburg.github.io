@@ -14,6 +14,7 @@ Most of this work was done on [Processing](processing.org).
       alt="Ulam's Spiral" />
    </a>
 </figure>
+{: .align-center}
 
 This is an [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral), created with Java. Each pixel represents one number of a spiralling number line, white pixels are prime numbers and black pixels are not. 
 {: .text-left}
@@ -24,6 +25,8 @@ This is an [Ulam Spiral](https://en.wikipedia.org/wiki/Ulam_spiral), created wit
       alt="Pixel Sorted Moon" />
    </a>
 </figure>
+{: .align-center}
+
 
 This distorted moon was generated using a pixel sorting algorithm. The algorithm selects a random line of pixels on the image with a random length (within a range), sorts the pixels from brightest to darkest, then replaces the line of pixels with the sorted line. 
 {: .text-left}
@@ -34,6 +37,8 @@ This distorted moon was generated using a pixel sorting algorithm. The algorithm
       alt="Recaman's Sequence" />
    </a>
 </figure>
+{: .align-center}
+
 
 This is the beginning of the ever expanding [Recamán's sequence](https://en.wikipedia.org/wiki/Recam%C3%A1n%27s_sequence). The sequence is somewhat difficult to explain shortly but basically involves jumping back and forth on a number line; these jumps are visualized as the “arcs” in the image.
 {: .text-left}

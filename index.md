@@ -46,6 +46,7 @@ Learning Blender since May 2020. All work was rendered in the Cycles render engi
       alt="Times Tide will Smother You" />
    </a>
 </figure>
+{: .align-center}
 
 {% include video id="1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5" provider="google-drive" %}
 <!-- https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing -->
@@ -57,6 +58,8 @@ Under [Public Address](publicaddress.studio)
 {: .text-center}
 
 {% include gallery id="gallery1" layout="half" %}
+
+<hr>
 
 {% include gallery id="gallery2" layout="half" %}
 

@@ -1,6 +1,7 @@
-I"<p>Learning Blender since May 2020. All work was rendered in the Cycles render engine.</p>
+I"y
+<p>Learning Blender since May 2020. All work was rendered in the Cycles render engine.</p>
 
-<figure>
+<figure class="align-center">
    <a href="/images/timestides-large.png">
    <img src="/images/timestides-large.png" alt="Times Tide will Smother You" />
    </a>
@@ -12,7 +13,7 @@
     <iframe src="https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/preview" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
   </div>
 
-<p>https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing</p>
+<!-- https://drive.google.com/file/d/1U6NC-MlgQKe-6g1gHBaVI4PQY6usjwo5/view?usp=sharing -->
 
 <h2 class="text-center" id="work-for-playvs">Work for <a href="playvs.com">PlayVS</a></h2>
 
@@ -21,26 +22,26 @@
 <figure class="half ">
   
     
-      <a href="/portfolio/images/Final+Black+Key.png">
-          <img src="/portfolio/images/Final+Black+Key.png" alt="PlayVS Black Key" />
+      <a href="/images/Final+Black+Key.png">
+          <img src="/images/Final+Black+Key.png" alt="PlayVS Black Key" />
       </a>
     
   
     
-      <a href="/portfolio/images/Final+Yellow+Key.png">
-          <img src="/portfolio/images/Final+Yellow+Key.png" alt="PlayVS Yellow Key" />
+      <a href="/images/Final+Yellow+Key.png">
+          <img src="/images/Final+Yellow+Key.png" alt="PlayVS Yellow Key" />
       </a>
     
   
     
-      <a href="/portfolio/images/playvs_medal.png">
-          <img src="/portfolio/images/playvs_medal.png" alt="PlayVS Medal" />
+      <a href="/images/playvs_medal.png">
+          <img src="/images/playvs_medal.png" alt="PlayVS Medal" />
       </a>
     
   
     
-      <a href="/portfolio/images/playvs-sig-square.png">
-          <img src="/portfolio/images/playvs-sign-square.png" alt="PlayVS Neon Sign" />
+      <a href="/images/playvs-sig-square.png">
+          <img src="/images/playvs-sign-square.png" alt="PlayVS Neon Sign" />
       </a>
     
   
@@ -50,14 +51,14 @@
 <figure class="half ">
   
     
-      <a href="/portfolio/images/Living-room-final-dark.png">
-          <img src="/portfolio/images/Living-room-final-dark.png" alt="Living room" />
+      <a href="/images/Living-room-final-dark.png">
+          <img src="/images/Living-room-final-dark.png" alt="Living room" />
       </a>
     
   
     
-      <a href="/portfolio/images/bong_hd.png">
-          <img src="/portfolio/images/bong_hd.png" alt="Bong and grinder" />
+      <a href="/images/bong_hd.png">
+          <img src="/images/bong_hd.png" alt="Bong and grinder" />
       </a>
     
   
@@ -75,14 +76,14 @@
 <figure class="half ">
   
     
-      <a href="/portfolio/images/fillstation.png">
-          <img src="/portfolio/images/fillstation.png" alt="Fill Station" />
+      <a href="/images/fillstation.png">
+          <img src="/images/fillstation.png" alt="Fill Station" />
       </a>
     
   
     
-      <a href="/portfolio/images/donut-coffee.png">
-          <img src="/portfolio/images/donut-coffee.png" alt="Donut and Coffee" />
+      <a href="/images/donut-coffee.png">
+          <img src="/images/donut-coffee.png" alt="Donut and Coffee" />
       </a>
     
   

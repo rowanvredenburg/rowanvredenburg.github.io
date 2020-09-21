@@ -4,5 +4,7 @@ layout: single
 permalink: /contact/
 author_profile: false
 ---
-
-Contact me at rowan.o.vredenburg@gmail.com
+<br>
+<br>
+Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
+{: .text-center}
