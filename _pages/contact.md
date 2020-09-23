@@ -10,14 +10,14 @@ author_profile: false
 {: .text-center} -->
 
 <div>
-    <li>
+    <ul>
         <a href="mailto: rowan.o.vredenburg@gmail.com">
             <i class="fas fa-fw fa-envelope-square"></i>
-            <p>rowan.o.vredenburg@gmail.com</p>
+            rowan.o.vredenburg@gmail.com
         </a>
         <a>
             <i class="fab fa-fw fa-linkedin"></i>
-            <p>LinkedIn</p>
+            LinkedIn
         </a>
-    </li>
+    </ul>
 </div>
