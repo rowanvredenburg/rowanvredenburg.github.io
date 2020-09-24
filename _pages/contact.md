@@ -16,11 +16,9 @@ author_profile: false
         <i class="fas fa-fw fa-envelope-square"></i>
         rowan.o.vredenburg@gmail.com
     </a>
-    {: .text-center}
     <br>
     <a hfref="https://www.linkedin.com/in/rowan-vredenburg-4ab372100/">
         <i class="fab fa-fw fa-linkedin"></i>
         LinkedIn
     </a>
-    {: .text-center}
 </div>
