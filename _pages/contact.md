@@ -9,15 +9,19 @@ author_profile: false
 <!-- Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
 {: .text-center} -->
 
-<div>
+<div class="align-center">
     <ul>
-        <a href="mailto: rowan.o.vredenburg@gmail.com">
-            <i class="fas fa-fw fa-envelope-square"></i>
-            rowan.o.vredenburg@gmail.com
-        </a>
-        <a>
-            <i class="fab fa-fw fa-linkedin"></i>
-            LinkedIn
-        </a>
+        <li>
+            <a href="mailto: rowan.o.vredenburg@gmail.com">
+                <i class="fas fa-fw fa-envelope-square"></i>
+                rowan.o.vredenburg@gmail.com
+            </a>
+        </li>
+        <li>
+            <a>
+                <i class="fab fa-fw fa-linkedin"></i>
+                LinkedIn
+            </a>
+        </li>
     </ul>
 </div>
