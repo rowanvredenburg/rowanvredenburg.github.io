@@ -4,8 +4,6 @@ layout: single
 permalink: /contact/
 header:
     overlay_image: /images/Spacescenestill.png
-classes:
-    - 
 author_profile: false
 ---
 <!-- Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
@@ -13,15 +11,13 @@ author_profile: false
 
 <div class="contact-center">
     <a href="mailto: rowan.o.vredenburg@gmail.com">
-        <h3><i class="fas fa-fw fa-envelope-square"></i>
+        <i class="fas fa-fw fa-envelope-square"></i>
         rowan.o.vredenburg@gmail.com
-        </h3>
     </a>
     <br>
     <a href="https://www.linkedin.com/in/rowan-vredenburg-4ab372100/">
-        <h3><i class="fab fa-fw fa-linkedin"></i>
+        <i class="fab fa-fw fa-linkedin"></i>
         LinkedIn
-        </h3>
     </a>
 </div>
 
