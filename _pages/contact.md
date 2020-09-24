@@ -17,7 +17,7 @@ author_profile: false
         </a>
     </li>
     <li>
-        <a>
+        <a hfref="https://www.linkedin.com/in/rowan-vredenburg-4ab372100/">
             <i class="fab fa-fw fa-linkedin"></i>
             LinkedIn
         </a>
