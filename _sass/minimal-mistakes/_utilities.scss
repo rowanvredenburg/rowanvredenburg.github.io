@@ -108,8 +108,7 @@ body:hover .visually-hidden button {
   padding-right: 4em;
 
   @include breakpoint($small){
-    padding-left:0em;
-    padding-right: 0em;
+    display: block;
   }
 }
 
