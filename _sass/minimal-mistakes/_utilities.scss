@@ -107,9 +107,9 @@ body:hover .visually-hidden button {
   padding-left: 4em;
   padding-right: 4em;
 
-  @include breakpoint($small){
-    display: block;
-  }
+  // @include breakpoint($small){
+  //   display: block;
+  // }
 }
 
 /*
