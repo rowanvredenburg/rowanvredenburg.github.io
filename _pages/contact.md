@@ -15,7 +15,7 @@ author_profile: false
 ### [<i class="fab fa-fw fa-linkedin fa-2x"></i> <br> LinkedIn](https://www.linkedin.com/in/rowan-vredenburg-4ab372100/)
 {: .text-center} -->
 
-#### Please contact me with any inquiries using the form below. Thanks!
+Please contact me with any inquiries using the form below. Thanks!
 <br>
 
 <form
