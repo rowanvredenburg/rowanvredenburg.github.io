@@ -10,6 +10,7 @@ author_profile: false
 {: .text-center} -->
 
 [<i class="fas fa-fw fa-envelope-square"></i> rowan.o.vredenburg@gmail.com](mailto: rowan.o.vredenburg@gmail.com)
+
 [<i class="fab fa-fw fa-linkedin"></i> LinkedIn](mhttps://www.linkedin.com/in/rowan-vredenburg-4ab372100/)
 {: .text-center}
 
