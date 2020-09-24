@@ -13,12 +13,14 @@ author_profile: false
 
 <div class="wrapper">
     <a href="mailto: rowan.o.vredenburg@gmail.com">
-        <i class="fas fa-fw fa-envelope-square"></i>
+        <h3><i class="fas fa-fw fa-envelope-square"></i>
         rowan.o.vredenburg@gmail.com
+        </h3>
     </a>
     <br>
-    <a hfref="https://www.linkedin.com/in/rowan-vredenburg-4ab372100/">
-        <i class="fab fa-fw fa-linkedin"></i>
+    <a href="https://www.linkedin.com/in/rowan-vredenburg-4ab372100/">
+        <h3><i class="fab fa-fw fa-linkedin"></i>
         LinkedIn
+        </h3>
     </a>
 </div>
