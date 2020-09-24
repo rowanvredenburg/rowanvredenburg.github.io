@@ -16,6 +16,7 @@ author_profile: false
 {: .text-center} -->
 
 #### Please contact me with any inquiries using the form below. Thanks!
+<br>
 
 <form
   action="https://formspree.io/xoqpqzee"
