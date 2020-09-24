@@ -9,7 +9,13 @@ author_profile: false
 <!-- Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
 {: .text-center} -->
 
-<div class="contact-center">
+[<i class="fas fa-fw fa-envelope-square"></i> rowan.o.vredenburg@gmail.com](mailto: rowan.o.vredenburg@gmail.com)
+{: .text-center}
+
+[<i class="fab fa-fw fa-linkedin"></i> LinkedIn](mhttps://www.linkedin.com/in/rowan-vredenburg-4ab372100/)
+{: .text-center}
+
+<!-- <div class="contact-center">
     <a href="mailto: rowan.o.vredenburg@gmail.com">
         <i class="fas fa-fw fa-envelope-square"></i>
         rowan.o.vredenburg@gmail.com
@@ -19,5 +25,5 @@ author_profile: false
         <i class="fab fa-fw fa-linkedin"></i>
         LinkedIn
     </a>
-</div>
+</div> -->
 
