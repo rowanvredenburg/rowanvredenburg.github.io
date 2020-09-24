@@ -6,8 +6,6 @@ header:
     overlay_image: /images/Spacescenestill.png
 author_profile: false
 ---
-<br>
-<br>
 <!-- Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
 {: .text-center} -->
 
