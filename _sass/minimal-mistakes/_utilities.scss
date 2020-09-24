@@ -104,13 +104,9 @@ body:hover .visually-hidden button {
 }
 
 .text-pad {
-  padding-left: 4em;
-  padding-right: 4em;
-
-  @include breakpoint($small){
-    padding-left: 0em;
-    padding-right: 0em;
-  }
+  padding-left: 0em;
+  padding-right: 0em;
+  
   @include breakpoint($large){
     padding-left: 5em;
     padding-right: 5em;
