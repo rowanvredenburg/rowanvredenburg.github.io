@@ -104,8 +104,13 @@ body:hover .visually-hidden button {
 }
 
 .text-pad {
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 4em;
+  padding-right: 4em;
+
+  @include breakpoint($small){
+    padding-left:1em;
+    padding-right:1em;
+  }
 }
 
 /*
