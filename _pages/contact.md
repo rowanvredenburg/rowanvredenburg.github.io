@@ -11,7 +11,7 @@ author_profile: false
 <!-- Please contact me at rowan.o.vredenburg@gmail.com with any inquiries
 {: .text-center} -->
 
-<div class="align-center">
+<div class="contact-center">
     <a href="mailto: rowan.o.vredenburg@gmail.com">
         <h3><i class="fas fa-fw fa-envelope-square"></i>
         rowan.o.vredenburg@gmail.com
@@ -24,5 +24,4 @@ author_profile: false
         </h3>
     </a>
 </div>
-{: .align-center}
 

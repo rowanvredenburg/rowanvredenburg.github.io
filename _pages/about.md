@@ -5,6 +5,8 @@ permalink: /about/
 header:
     overlay_image: /images/scale.png
 author_profile: false
+classes:
+    - about-sides
 ---
 
 Hi! My name is Rowan Vredenburg and I am a fourth-year Materials Science and Engineering student at the University of Toronto. I have always had an interest for coding and recently became interested in 3D design.
