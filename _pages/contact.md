@@ -10,18 +10,16 @@ author_profile: false
 {: .text-center} -->
 
 <div class="align-center">
-    <ul>
-        <li>
-            <a href="mailto: rowan.o.vredenburg@gmail.com">
-                <i class="fas fa-fw fa-envelope-square"></i>
-                rowan.o.vredenburg@gmail.com
-            </a>
-        </li>
-        <li>
-            <a>
-                <i class="fab fa-fw fa-linkedin"></i>
-                LinkedIn
-            </a>
-        </li>
-    </ul>
+    <li>
+        <a href="mailto: rowan.o.vredenburg@gmail.com">
+            <i class="fas fa-fw fa-envelope-square"></i>
+            rowan.o.vredenburg@gmail.com
+        </a>
+    </li>
+    <li>
+        <a>
+            <i class="fab fa-fw fa-linkedin"></i>
+            LinkedIn
+        </a>
+    </li>
 </div>
