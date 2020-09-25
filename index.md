@@ -5,7 +5,8 @@ permalink: /
 author_profile: false
 entries_layout: grid
 class: wide
-
+header:
+   overlay_image: /images/3d-header.png
 gallery1:
    -  url: /images/Final+Black+Key.png
       image_path: /images/Final+Black+Key.png
@@ -21,8 +22,8 @@ gallery1:
       alt: "PlayVS Neon Sign"
 
 gallery2:
-   -  url: /images/Living-room-final-dark.png
-      image_path: /images/Living-room-final-dark.png
+   -  url: /images/Living-room-final.png
+      image_path: /images/Living-room-final.png
       alt: "Living room"
    -  url: /images/bong_hd.png
       image_path: /images/bong_hd.png

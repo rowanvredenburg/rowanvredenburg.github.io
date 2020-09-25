@@ -4,6 +4,8 @@ layout: single
 permalink: /proceduralmath/
 author_profile: false
 entries_layout: grid
+header:
+   overlay_image: /images/coding.jpg
 ---
 
 Most of this work was done on [Processing](processing.org).
