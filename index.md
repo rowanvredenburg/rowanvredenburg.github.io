@@ -7,6 +7,7 @@ entries_layout: grid
 class: wide
 header:
    overlay_image: /images/3d-header.png
+   overlay_filter: "0.5"
 gallery1:
    -  url: /images/Final+Black+Key.png
       image_path: /images/Final+Black+Key.png

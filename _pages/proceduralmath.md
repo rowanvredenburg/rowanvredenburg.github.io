@@ -6,6 +6,7 @@ author_profile: false
 entries_layout: grid
 header:
    overlay_image: /images/coding.jpg
+   overlay_filter: "0.5"
 ---
 
 Most of this work was done on [Processing](processing.org).
