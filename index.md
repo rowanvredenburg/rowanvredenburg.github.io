@@ -23,8 +23,8 @@ gallery1:
       alt: "PlayVS Neon Sign"
 
 gallery2:
-   -  url: /images/Living-room-final.png
-      image_path: /images/Living-room-final.png
+   -  url: /images/living-room.png
+      image_path: /images/living-room.png
       alt: "Living room"
    -  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
