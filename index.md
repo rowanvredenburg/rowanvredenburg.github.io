@@ -26,11 +26,15 @@ gallery2:
    -  url: /images/living-room.png
       image_path: /images/living-room.png
       alt: "Living room"
-   -  url: /images/bong_hd.png
+   -  url: /images/donut-coffee.png
+      image_path: /images/donut-coffee.png
+      alt: "Donut and Coffee"
+      figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
+   <!--  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
-      alt: "Bong and grinder"
+      alt: "Bong and grinder"-->
 
-gallery3:
+<!--gallery3:
    -  url: /images/fillstation.png
       image_path: /images/fillstation.png
       alt: "Fill Station"
@@ -38,6 +42,7 @@ gallery3:
       image_path: /images/donut-coffee.png
       alt: "Donut and Coffee"
       figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
+  -->
 ---
 
 Learning Blender since May 2020. All work was rendered in the Cycles render engine.
@@ -68,7 +73,7 @@ Under [Public Address](publicaddress.studio)
 {% include video id="1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN" provider="google-drive" %}
 <!-- https://drive.google.com/file/d/1FqNSSdhppV1RuKhry-yIPDxanwa4C-bN/view?usp=sharing -->
 
-{% include gallery id="gallery3" layout="half" %}
+<!--{% include gallery id="gallery3" layout="half" %}--> 
 
 <!-- <figure>
    <a href="/images/scale.png">
