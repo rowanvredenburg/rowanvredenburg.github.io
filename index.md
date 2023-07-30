@@ -30,6 +30,8 @@ gallery2:
       image_path: /images/donut-coffee.png
       alt: "Donut and Coffee"
       figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
+
+---    
    <!--  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
       alt: "Bong and grinder"-->
@@ -43,7 +45,6 @@ gallery2:
       alt: "Donut and Coffee"
       figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
   -->
----
 
 Learning Blender since May 2020. All work was rendered in the Cycles render engine.
 
