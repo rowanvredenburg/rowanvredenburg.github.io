@@ -21,7 +21,6 @@ gallery1:
    -  url: /images/playvs-sig-square.png
       image_path: /images/playvs-sign-square.png
       alt: "PlayVS Neon Sign"
-
 gallery2:
    -  url: /images/living-room.png
       image_path: /images/living-room.png
@@ -30,7 +29,6 @@ gallery2:
       image_path: /images/donut-coffee.png
       alt: "Donut and Coffee"
       figcaption: "Note: this image was produced using the [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) tutorial."
-
 ---    
    <!--  url: /images/bong_hd.png
       image_path: /images/bong_hd.png
