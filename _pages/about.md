@@ -7,7 +7,7 @@ header:
 author_profile: false
 ---
 
-Hi! My name is Rowan Vredenburg and I am a fourth-year Materials Science and Engineering student at the University of Toronto. I have always had an interest for coding and recently became interested in 3D design.
+Hi! My name is Rowan Vredenburg and I am an engineering intern in the water/wastewater sector. I have always had an interest for coding and recently became interested in 3D design.
 {: .text-pad}
 
 The idea behind this website was as a place to store and share my work in both Blender and procedural math programming.
